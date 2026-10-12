@@ -1,0 +1,10 @@
+{
+    "threshold": 0.7,
+    "precision": 0.9384615384615385,
+    "recall": 0.7408906882591093,
+    "f1_score": 0.8280542986425339,
+    "true_positives": 183,
+    "false_positives": 12,
+    "false_negatives": 64,
+    "true_negatives": 199741
+}

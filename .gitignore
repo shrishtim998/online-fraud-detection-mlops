@@ -1,0 +1,27 @@
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache and test cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Large datasets and processed data
+data/*.csv
+data/**/*.csv
+data/processed/
+
+# Trained model binaries
+models/*.pkl
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db

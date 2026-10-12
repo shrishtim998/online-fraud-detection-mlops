@@ -1,0 +1,24 @@
+{
+    "model": "Random Forest Pipeline",
+    "threshold": 0.5,
+    "training_sample_size": 106570,
+    "test_size": 1272524,
+    "accuracy": 0.9999080567439199,
+    "precision": 0.935005701254276,
+    "recall": 0.9981740718198417,
+    "f1_score": 0.9655578451574919,
+    "roc_auc": 0.999932356028917,
+    "pr_auc": 0.998762698452563,
+    "confusion_matrix": [
+        [
+            1270767,
+            114
+        ],
+        [
+            3,
+            1640
+        ]
+    ],
+    "reload_predictions_match": true,
+    "max_reload_probability_difference": 1.1102230246251565e-16
+}

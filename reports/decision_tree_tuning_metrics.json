@@ -1,0 +1,30 @@
+{
+    "model": "Tuned Decision Tree",
+    "best_params": {
+        "min_samples_split": 20,
+        "min_samples_leaf": 10,
+        "max_depth": 20,
+        "class_weight": "balanced"
+    },
+    "best_cv_pr_auc": 0.7760955571376776,
+    "test_accuracy": 0.9988070951903462,
+    "test_precision": 0.5232774674115456,
+    "test_recall": 0.855143031040779,
+    "test_f1": 0.649260628465804,
+    "test_roc_auc": 0.9274348844638584,
+    "test_pr_auc": 0.7968159648763629,
+    "test_confusion_matrix": [
+        [
+            1269601,
+            1280
+        ],
+        [
+            238,
+            1405
+        ]
+    ],
+    "threshold": 0.5,
+    "training_sample_size": 509010,
+    "cv_folds": 3,
+    "random_search_iterations": 8
+}

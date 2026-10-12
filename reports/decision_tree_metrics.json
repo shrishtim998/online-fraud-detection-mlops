@@ -1,0 +1,11 @@
+{
+    "model": "Decision Tree",
+    "accuracy": 0.9945557018963886,
+    "precision": 0.19082719082719082,
+    "recall": 0.992696287279367,
+    "f1": 0.3201177625122669,
+    "roc_auc": 0.9957645488345016,
+    "average_precision": 0.5754793757171346,
+    "threshold": 0.5,
+    "training_sample_size": 106570
+}

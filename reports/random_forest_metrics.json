@@ -1,0 +1,12 @@
+{
+    "model": "Random Forest",
+    "training_sample_size": 100000,
+    "test_size": 1272524,
+    "accuracy": 0.9987795907975017,
+    "precision": 0.5174013921113689,
+    "recall": 0.8143639683505782,
+    "f1_score": 0.6327737053676992,
+    "roc_auc": 0.9955424871796978,
+    "pr_auc_average_precision": 0.8214576711791062,
+    "threshold": 0.5
+}
