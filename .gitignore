@@ -18,8 +18,7 @@ data/*.csv
 data/**/*.csv
 data/processed/
 
-# Trained model binaries
-models/*.pkl
+
 
 # Editor and operating system files
 .vscode/
